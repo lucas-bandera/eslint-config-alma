@@ -1,0 +1,13 @@
+{
+  "name": "@alma/eslint-config",
+  "version": "0.1.0",
+  "private": "false",
+  "description": "ESLint configuration for the Alma Design system.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
+}
